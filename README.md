@@ -1,4 +1,4 @@
-# TheBestParameterOfMachineLearning
+# The Best Parameter Of Machine Learning
  
 This is the tool to run some machinelearning algorithms with pipeline of sckit-learn.
 If you overlide the parameter of ClassifierParameter.py, you can change the parameter about machine-learning.
