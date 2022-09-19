@@ -6,10 +6,10 @@ If you overlide the parameter of ClassifierParameter.py, you can change the para
 # Features
  
 What is setting by defalut is, 
-* SupportVecotorMachine(C=0.001~100(logarithm steps), gamma=0.001~100(logarithm steps))
+* Support Vecotor Machine(C=0.001\~100(logarithm steps), gamma=0.001\~100(logarithm steps))<br>
 Preprocessing -> [MinMaxScaler, StanderdScaler, None]
-* Random Forest Classifier(max_depth=1~10, max_features=1~10, n_estimators=1~100(logarithm steps)), 
-* Gradient Boosting Classifier(max_depth=1~10, learning_rate=0.01~10(logarithm stemps)).
+* Random Forest Classifier(max_depth=1\~10, max_features=1\~10, n_estimators=1\~100(logarithm steps)), 
+* Gradient Boosting Classifier(max_depth=1\~10, learning_rate=0.01\~10(logarithm stemps)).
 
 If you want to update parameters, to overlide ClassifierParameter.py
  
